@@ -1,3 +1,5 @@
+## EXERCÍCIOS CONCLUÍDOS
+
 ..:: Aula 06: Portugol para aprender programação báscia ::..
 
 Lista de Exercícios
@@ -13,7 +15,7 @@ Lista de Exercícios
 ● C é diferente D;
 ● E é maior F.
 
-5. Reescreva todo o exercício 2 usando estrutura condicional. (Pendente)
+~~5. Reescreva todo o exercício 2 usando estrutura condicional.~~ (Não necessário, pois a estrutura condicional foi empregada no exercício 2)
 
 6. Crie um algoritmo que receba 4 notas de um aluno, calcule a média e exiba se o aluno foi aprovado ou não.
 Obs.: a média de aprovação é 7.
